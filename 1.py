@@ -1,0 +1,5 @@
+name = input()
+country = input()
+city = input()
+education = input()
+print(name, country, city, education, sep = "\n")
